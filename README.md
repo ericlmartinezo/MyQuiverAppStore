@@ -1,5 +1,5 @@
-# MyQuiverAppStore
-Windsurfers App. Tech support
+# My Quiver
+# Windsurfers App.
 
 Privacy Policy
 Eric Martinez built the My Quiver app as a Commercial app. This SERVICE is provided by Eric Martinez and is intended for use as is.
